@@ -1,0 +1,2 @@
+Write commands which will put fb.com web site hosting info in a new fb.txt flle
+   I created fb.txt with command  cat > fb.txt  , then used command host fb.com and after that  used host fb.com > fb.txt  .

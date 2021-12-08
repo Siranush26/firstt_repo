@@ -1,0 +1,3 @@
+Have a folder with some files(min 5 files). Write a command which will put file names and sizes into a new sorted_files.txt file ordered by size.
+I used command ls -l --sort=size | awk '{print $5,$9} > sorted_feles.txt
+

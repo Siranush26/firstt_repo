@@ -1,0 +1,2 @@
+Find a way to open google.com web site in terminal(via headless browser).
+I installed lynx with command sudo apt install lynx after that used command lynx www.google.com and allow cookies.
